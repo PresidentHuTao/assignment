@@ -1,0 +1,9 @@
+tên đường dẫn phải phân biệt với nhau để post, get tránh nhầm lẫn
+vd: add-danh-muc / add-mau-sac
+
+bảng sản phẩm đáng lẽ nên đặt tên là loại để tránh nhầm lẫn, khó hiểu giữa sản phẩm và chi tiết sản phẩm
+
+tên model, biến, hàm,... cần tuân thủ convention (làm y như class đầu tiên cùng loại cũng được, vd các controller)
+
+chú ý: code chạy từ trên xuống dưới nên hãy xử lý tất cả những gì cần xử lý đối với biến, đối tượng, lớp,...trước khi
+có bất cứ sự thay đổi nào đối với chúng trong những dòng bên dưới
